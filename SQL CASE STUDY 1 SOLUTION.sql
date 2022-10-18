@@ -1,5 +1,6 @@
 /*Case Study Questions
 Each of the following case study questions can be answered using a single SQL statement:
+link to data : https://github.com/EAtheAnalyst/SQL/blob/main/SQL%20CASE%20STUDY%201%20SCRIPT.sql
 */
 
 
