@@ -1,3 +1,4 @@
+/* Linkt to data script :https://github.com/EAtheAnalyst/SQL/blob/main/SQL%20CASE%20STUDY%202%20SCRIPT.sql */
 -A. Pizza Metrics
 
 Q1
